@@ -1,7 +1,3 @@
-Here's the updated version with the mention of the course:  
-
----
-
 # Personal Portfolio Project – Tomasz Mol  
 
 This is my personal portfolio website project, designed to showcase my skills, projects, and professional experience. The website is built using modern web technologies and serves as a digital resume and a hub for my work.  
